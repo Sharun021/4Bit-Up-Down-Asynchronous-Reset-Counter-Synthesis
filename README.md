@@ -1,4 +1,5 @@
 # 4Bit-Up-Down-Asynchronous-Reset-Counter-Synthesis
+# SHARUN N (212223060257)
 
 ## Aim:
 
@@ -65,17 +66,26 @@ used.
 
 #### Synthesis RTL Schematic :
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c1ae2f45-236c-4e57-a63d-d2b4aa4b6397" />
+
+
+
 #### Area report:
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-27 093140" src="https://github.com/user-attachments/assets/decf7e77-0a7d-4d85-8eb7-93a1f81274d1" />
+
 
 #### Power Report:
 
+<img width="1920" height="1080" alt="Screenshot 2025-09-27 093154" src="https://github.com/user-attachments/assets/c9083de2-045c-4577-96f4-ca594df0b4d7" />
+
+
+
 #### Timing Report: 
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-27 093355" src="https://github.com/user-attachments/assets/ea45ba12-c825-40f4-870b-e8ee01a93ca3" />
+
 
 #### Result: 
 
 The generic netlist has been created, and area, power, and timing reports have been tabulated and generated using Genus.
-
-
-
-
-
